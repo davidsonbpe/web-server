@@ -1,0 +1,46 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+
+#menu-6 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-6.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-6 .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-6 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-6 .mbr-brand__name a {
+  font-size: 17px;
+  font-family: 'Montserrat', sans-serif;
+}
+#slider-7 P {
+  text-align: center;
+  font-size: 20px;
+}
+#slider-7 H1 {
+  text-align: center;
+}
+#msg-box5-2 .mbr-header__text {
+  color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+}
+#msg-box5-2 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-2 .mbr-article {
+  color: #ffffff;
+}
+#features1-3 P {
+  text-align: center;
+}
+#msg-box1-5 .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-5 .mbr-article {
+  color: #fff;
+}
