@@ -1,6 +1,8 @@
 
 // DEVELOPER DAVIDSONBPE © 2016 www.davidsonbpe.blogspot.com , Inc. //
 
+// https://davidsonbpe.github.io/web-server/controle/web-gerenciador/ //
+
 
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
