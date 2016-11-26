@@ -10,7 +10,7 @@ SMB_URL = "" + document.location;
 SMB_From = SMB_URL.indexOf("?");
 SMB_Page = SMB_URL.substring(SMB_From+1, SMB_URL.length);
 
-document.write('<FRAMESET ROWS="60,*" FRAMESPACING=0 FRAMEBORDER=0 BORDER=0>');
+document.write('<FRAMESET ROWS="50,*" FRAMESPACING=0 FRAMEBORDER=0 BORDER=0>');
 document.write('<FRAME NAME="main" SRC="' + SMB_Page + '" MARGINHEIGHT="0" MARGINWIDTH="0" FRAMEBORDER="0"  SCROLLING="auto" NORESIZE>');
 document.write('<FRAME NAME="cima" src="framers.html" MARGINHEIGHT="0" MARGINWIDTH="0" FRAMEBORDER="0" SCROLLING="no" NORESIZE>');
 document.write('</FRAMESET>');
