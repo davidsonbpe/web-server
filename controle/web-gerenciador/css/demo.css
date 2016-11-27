@@ -14,7 +14,7 @@
 .clearfix:after { clear: both; }
 
 body {
-    padding: 3px 0px 0px;
+    padding: 20px 0px 0px;
 	font-family: 'Avenir Next', Avenir, 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	color: #fff;
 	background: #272729;
