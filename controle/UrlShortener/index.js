@@ -11,7 +11,7 @@ document.oncontextmenu=new Function("return false")
 SMB_URL = "" + document.location;
 SMB_From = SMB_URL.indexOf("?");
 SMB_Page = SMB_URL.substring(SMB_From+1, SMB_URL.length);
-document.write('<iframe name="janela-one" id="frame-spec" width="250" height="30" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://tinyurl.com/api-create.php?url=' + SMB_Page + '"></iframe>');
+document.write('<iframe name="janela-one" id="frame-spec" width="250" height="30" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://tinyurl.com/api-create.php?url=' + SMB_Page + '"></iframe>');
 //document.write('<a id="urls" href="index.html?' + SMB_Page + '" target="_blank"><i class="home-spkd" aria-hidden="true"></i> botom</a>');
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
