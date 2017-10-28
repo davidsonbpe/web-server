@@ -11,12 +11,12 @@
 #menu-6.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
     background-image: url(topo.jpg);
-    background-size: 770px;
+    background-size: cover;
 }
 #menu-6 .mbr-navbar__section {
   background: #2c2c2c;
     background-image: url(topo.jpg);
-    background-size: 770px;
+    background-size: cover;
 }
 
 
