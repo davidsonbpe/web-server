@@ -1,0 +1,49 @@
+@font-face {
+	font-family: 'Billabong';
+	src: local('Billabong'), url('./Billabong.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_11195">Text with this font applied</p> */
+.fontsforweb_fontid_11195 {
+	font-family: 'Billabong' !important;
+}
+
+@font-face {
+	font-family: 'Dolceveta';
+	src: local('Dolceveta'), url('./Dolceveta.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_11195">Text with this font applied</p> */
+.fontsforweb_fontid_11195 {
+	font-family: 'Dolceveta' !important;
+}
+
+@font-face {
+	font-family: 'Oswald';
+	src: url('./Oswald.eot');
+	src: local('Oswald'), url('./Oswald.woff') format('woff'), url('./Oswald.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_11195">Text with this font applied</p> */
+.fontsforweb_fontid_11195 {
+	font-family: 'Oswald' !important;
+}
+
+
+@font-face {
+	font-family: 'MAGNETOB';
+	src: url('./MAGNETOB.eot');
+	src: local('MAGNETOB'), url('./MAGNETOB.woff') format('woff'), url('./MAGNETOB.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_11195">Text with this font applied</p> */
+.fontsforweb_fontid_11195 {
+	font-family: 'MAGNETOB' !important;
+}
+
+
+@font-face {
+	font-family: 'LCDBOLD';
+	src: url('./LCDBOLD.eot');
+	src: local('LCDBOLD'), url('./LCDBOLD.woff') format('woff'), url('./LCDBOLD.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_11195">Text with this font applied</p> */
+.fontsforweb_fontid_11195 {
+	font-family: 'LCDBOLD' !important;
+}
