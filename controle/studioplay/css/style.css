@@ -1,4 +1,4 @@
-ul {padding: 0;margin: 0;}li {position: relative;z-index: 1;overflow: hidden;list-style: none;padding: 0;/*margin: 0 0 0.25em;*/border: solid 1px #cec5c5;}li a:link,li a:visited{display: block;border: 0;padding-left: 28px;color: #000;}li a:hover,li a:focus,li a:active {color: #000;background: transparent;}li:before,li:after,li a:before,li a:after {content: "";position: absolute;top: 50%;left: 0;}li a:before,li a:after {margin: -8px 0 0;background: #000;}li a:hover:before,li a:focus:before,li a:active:before {background: #000;}
+.elik {position: relative;z-index: 1;overflow: hidden;list-style: none;padding: 0;/*margin: 0 0 0.25em;*/border: solid 1px #cec5c5;}
 
 
 .iconhbt{
