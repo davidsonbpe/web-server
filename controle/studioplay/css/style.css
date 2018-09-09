@@ -1,0 +1,108 @@
+ul {padding: 0;margin: 0;}li {position: relative;z-index: 1;overflow: hidden;list-style: none;padding: 0;/*margin: 0 0 0.25em;*/border: solid 1px #cec5c5;}li a:link,li a:visited{display: block;border: 0;padding-left: 28px;color: #000;}li a:hover,li a:focus,li a:active {color: #000;background: transparent;}li:before,li:after,li a:before,li a:after {content: "";position: absolute;top: 50%;left: 0;}li a:before,li a:after {margin: -8px 0 0;background: #000;}li a:hover:before,li a:focus:before,li a:active:before {background: #000;}
+
+
+.iconhbt{
+    color: rgba(158, 255, 8, 0.65);
+    font-size: 20px;
+    padding-left: 3px;
+}
+
+
+.fa.audio-button {
+  position: relative;
+    display: block;
+    width: 28px;
+    height: 28px;
+    margin-bottom: 0.125em;
+    text-align: left;
+    font-size: 10px;
+    cursor: pointer;
+    border-radius: 50px;
+    padding: 0px 8px;
+    color: floralwhite;
+    background-color: black;
+    text-decoration: none;
+    /* border: none; */
+    border: 2px solid #3cbf1d;
+}
+
+.fa.audio-button:after {
+  /*position:      absolute;*/
+  right:         0.8em;
+  content:       "\f04b";
+}
+
+.fa.audio-button.playing:after {
+  content:       "\f04c";
+}
+
+
+.logos{
+    float: left;
+    padding: 12px 3px;
+    background-color: black;
+    color: #e8dfe0;
+    margin: 8px 0px;
+    border-radius: 10px 0px 0px 10px;
+    height: 18px;
+    width: 119px;
+}
+.txtlog{
+    font-size: 14px;
+    padding: 5px;
+    font-family: sans-serif;
+}
+
+
+
+
+
+
+
+.dropbtn {
+    background-color: /*#131413*/#4e4e4e;
+    color: white;
+    padding: 6px 6px;
+    font-size: 13px;
+    border: none;
+    cursor: pointer;
+    border-radius: 0px 10px 10px 0px;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+    background-color: #2e312e;
+}
+
+.dropdown {
+    
+    float: right;
+    position: relative;
+    display: inline-block;
+    padding: 0px 12px;
+    z-index: 1000;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    right: 0;
+    z-index: 1000;
+    margin-top: 7px;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    font-family: sans-serif;
+}
+
+.dropdown a:hover {background-color: #ddd;}
+
+.show {display: block;}
+
