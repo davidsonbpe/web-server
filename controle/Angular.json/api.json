@@ -2,15 +2,18 @@
   "pessoas": [
     {
       "nome" : "João",
-      "sobrenome" : "Oliveira"
+      "sobrenome" : "Oliveira",
+      "link" : "https://via.placeholder.com/150x150/777/FFFFFF?text=J"
     },
     {
       "nome" : "Maria",
-      "sobrenome" : "Ferreira"
+      "sobrenome" : "Ferreira",
+      "link" : "https://via.placeholder.com/150x150/777/FFFFFF?text=M"
     },
     {
       "nome" : "Jose",
-      "sobrenome" : "Almeida"
+      "sobrenome" : "Almeida",
+      "link" : "https://via.placeholder.com/150x150/777/FFFFFF?text=A"
     }
   ]
 }
