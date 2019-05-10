@@ -3,17 +3,17 @@
     {
       "nome" : "João",
       "sobrenome" : "Oliveira",
-      "link" : "https://via.placeholder.com/150x150/777/FFFFFF?text=J"
+      "link" : "https://via.placeholder.com/50x50/777/FFFFFF?text=J"
     },
     {
       "nome" : "Maria",
       "sobrenome" : "Ferreira",
-      "link" : "https://via.placeholder.com/150x150/777/FFFFFF?text=M"
+      "link" : "https://via.placeholder.com/50x50/777/FFFFFF?text=M"
     },
     {
       "nome" : "Jose",
       "sobrenome" : "Almeida",
-      "link" : "https://via.placeholder.com/150x150/777/FFFFFF?text=A"
+      "link" : "https://via.placeholder.com/50x50/777/FFFFFF?text=A"
     }
   ]
 }
