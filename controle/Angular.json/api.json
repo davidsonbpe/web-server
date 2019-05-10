@@ -1,0 +1,16 @@
+{
+  "pessoas": [
+    {
+      "nome" : "Max",
+      "sobrenome" : "Oliveira"
+    },
+    {
+      "nome" : "Cicero",
+      "sobrenome" : "Pablo"
+    },
+    {
+      "nome" : "Danilo",
+      "sobrenome" : "Panta"
+    }
+  ]
+}
