@@ -110,7 +110,7 @@ span.rotate-5412019 {
 }
 
 /*1*/
-*,
+/**,
 :after,
 :before {
     box-sizing: border-box
@@ -377,7 +377,7 @@ span.rotate-5412019 {
 .atxlist:hover,
 .atxlist.active {
     color: #ccc;
-}
+}*/
 
 .atxlist .fa {
     font-size: inherit;
