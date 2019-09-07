@@ -14,4 +14,4 @@ var modal = document.getElementById('myModal-5412019');
             modal.style.display = "none";
         }
     }
-document.addEventListener('contextmenu', event => event.preventDefault()); /*---ti---*/
+//document.addEventListener('contextmenu', event => event.preventDefault()); /*---ti---*/
