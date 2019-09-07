@@ -1,3 +1,6 @@
+body {
+    background-color: darkorange;
+}
 
 .modal-5412019 {
     display: none;
@@ -110,13 +113,10 @@ span.rotate-5412019 {
 }
 
 /*1*/
-/*
-*,
-:after,
-:before {
+.mhn-player {
     box-sizing: border-box
 }
-*/
+
 .pull-left {
     float: left
 }
@@ -300,9 +300,6 @@ span.rotate-5412019 {
     text-shadow: 0 2px 4px #000;
 }
 
-.mhn-player .current-info > div {
-    margin-top: 10px;
-}
 
 .mhn-player .current-info .song-title {
     font-size: 24px;
@@ -333,6 +330,10 @@ span.rotate-5412019 {
     text-align: center;
     position: absolute;
     background-color: crimson;
+}
+
+.song-album{
+    margin-top: 10px;
 }
 
 .mhn-player .controls .fa-pp:before {
@@ -382,4 +383,5 @@ span.rotate-5412019 {
 
 .atxlist .fa {
     font-size: inherit;
+    margin-top: 10px;
 }
