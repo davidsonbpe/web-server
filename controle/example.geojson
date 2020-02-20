@@ -1,19 +1,20 @@
 {
-    'type': 'FeatureCollection',
-        'features': [
+    "type": "FeatureCollection",
+        "features": [
         {
-            'type': 'Feature',
-            'geometry': {'type': 'Point', 'coordinates': [-77.03238901390978,38.913188059745586]},
-            'properties': {
-                'description': 'usa'
+            "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [-77.03238901390978,38.913188059745586]},
+            "properties": {
+                "description": "usa"
             }
         },
         {
-            'type': 'Feature',
-            'geometry': {'type': 'Point', 'coordinates': [-78.0, 0.5]},
-            'properties': {
-                'description': 'boli'
+            "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [-78.0, 0.5]},
+            "properties": {
+                "description": "bolt"
             }
         }
     ]
 }
+
