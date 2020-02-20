@@ -5,7 +5,7 @@
             "type": "Feature",
             "geometry": {"type": "Point", "coordinates": [-77.03238901390978,38.913188059745586]},
             "properties": {
-                "description": "usa"
+                "description": "<strong>Make it Mount Pleasant</strong><p><button type="button" class="btn btn-primary" data-toggle="modal" data-target="#d01">play</button> is a handmade and vintage market and afternoon of live entertainment and kids activities. 12:00-6:00 p.m.</p>"
             }
         },
         {
