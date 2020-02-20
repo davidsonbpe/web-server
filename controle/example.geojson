@@ -7,6 +7,13 @@
             "properties": {
                 "title": "Hello, World"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {"type": "Point", "coordinates": [-78.0, 0.5]},
+            "properties": {
+                "title": "lopppppp"
+            }
         }
     ]
 }
