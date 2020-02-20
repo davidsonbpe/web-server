@@ -3,7 +3,7 @@
         "features": [
         {
             "type": "Feature",
-            "geometry": {"type": "Point", "coordinates": [-78.0, 0.5]},
+            "geometry": {"type": "Point", "coordinates": [-77.03238901390978,38.913188059745586]},
             "properties": {
                 "title": "Hello, World"
             }
