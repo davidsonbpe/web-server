@@ -6,7 +6,7 @@
             "geometry": {"type": "Point", "coordinates": [-46.74529194831849, -21.21051938544344]},
             "properties": {
                 "title": "QUADRA",
-                "description": "<div class='card border-0'><img src='https://via.placeholder.com/500x200?text=800' class='img-fluid' alt='Responsive image'><p class='card-text p-2'>Some quick example text to build on the card title and make up the bulk of the card's content.</p><div class='btn-group'><button type='button' class='border btn-lg rounded-0 btn btn-light'><i class='fas fa-play'></i></button><button type='button' class='border btn-lg rounded-0 btn btn-light'><i class='fas fa-pause'></i></button><button type='button' class='border btn-lg rounded-0 btn btn-light'><i class='fas fa-external-link-alt'></i></button></div></div>",
+                "description": "<div class='card border-0'><img src='https://via.placeholder.com/500x200?text=800' class='img-fluid' alt='Responsive image'><p class='card-text p-2'>Some quick example text to build on the card title and make up the bulk of the card's content.</p><div class='btn-group'><button type='button' class='border btn-lg rounded-0 btn btn-light'><i class='fas fa-play'></i></button><button type='button' class='border btn-lg rounded-0 btn btn-light'><i class='fas fa-pause'></i></button><button type='button' class='border btn-lg rounded-0 btn btn-light' data-toggle='modal' data-target='#modkov'><i class='fas fa-external-link-alt'></i></button></div></div>",
                 "marker-color": "#f86767",
                 "marker-size": "large",
                 "marker-symbol": "soccer"
@@ -17,7 +17,7 @@
             "geometry": {"type": "Point", "coordinates": [-46.72493934631348, -21.305348190572627]},
             "properties": {
                 "title": "RODOV-GUAXPE",
-                "description": "<div class='card border-0'><img src='https://via.placeholder.com/500x200?text=800' class='img-fluid' alt='Responsive image'><p class='card-text p-2'>Some quick example text to build on the card title and make up the bulk of the card's content.</p><div class='btn-group'><button type='button' class='border btn-lg rounded-0 btn btn-light'><i class='fas fa-play'></i></button><button type='button' class='border btn-lg rounded-0 btn btn-light'><i class='fas fa-pause'></i></button><button type='button' class='border btn-lg rounded-0 btn btn-light'><i class='fas fa-external-link-alt'></i></button></div></div>",
+                "description": "<div class='card border-0'><img src='https://via.placeholder.com/500x200?text=800' class='img-fluid' alt='Responsive image'><p class='card-text p-2'>Some quick example text to build on the card title and make up the bulk of the card's content.</p><div class='btn-group'><button type='button' class='border btn-lg rounded-0 btn btn-light'><i class='fas fa-play'></i></button><button type='button' class='border btn-lg rounded-0 btn btn-light'><i class='fas fa-pause'></i></button><button type='button' class='border btn-lg rounded-0 btn btn-light' data-toggle='modal' data-target='#modkov'><i class='fas fa-external-link-alt'></i></button></div></div>",
                 "marker-color": "#f86767",
                 "marker-size": "large",
                 "marker-symbol": "bus"
@@ -28,7 +28,7 @@
             "geometry": {"type": "Point", "coordinates": [-46.746429204940796, -21.207528746174475]},
             "properties": {
                 "title": "CAMPO-PRATNH",
-                "description": "<div class='card border-0'><img src='https://via.placeholder.com/500x200?text=800' class='img-fluid' alt='Responsive image'><p class='card-text p-2'>Some quick example text to build on the card title and make up the bulk of the card's content.</p><div class='btn-group'><button type='button' class='border btn-lg rounded-0 btn btn-light'><i class='fas fa-play'></i></button><button type='button' class='border btn-lg rounded-0 btn btn-light'><i class='fas fa-pause'></i></button><button type='button' class='border btn-lg rounded-0 btn btn-light'><i class='fas fa-external-link-alt'></i></button></div></div>",
+                "description": "<div class='card border-0'><img src='https://via.placeholder.com/500x200?text=800' class='img-fluid' alt='Responsive image'><p class='card-text p-2'>Some quick example text to build on the card title and make up the bulk of the card's content.</p><div class='btn-group'><button type='button' class='border btn-lg rounded-0 btn btn-light'><i class='fas fa-play'></i></button><button type='button' class='border btn-lg rounded-0 btn btn-light'><i class='fas fa-pause'></i></button><button type='button' class='border btn-lg rounded-0 btn btn-light' data-toggle='modal' data-target='#modkov'><i class='fas fa-external-link-alt'></i></button></div></div>",
                 "marker-color": "#f86767",
                 "marker-size": "large",
                 "marker-symbol": "star"
