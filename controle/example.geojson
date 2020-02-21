@@ -26,8 +26,8 @@
         {
             "type": "Feature",
             "geometry": {"type": "Point", "coordinates": [-46.746429204940796, -21.207528746174475]},
-            "title": "CAMPO",
             "properties": {
+                "title": "CAMPO-PRATNH",
                 "description": "bolt",
                 "marker-color": "#f86767",
                 "marker-size": "large",
