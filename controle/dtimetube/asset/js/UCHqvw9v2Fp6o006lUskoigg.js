@@ -77,7 +77,7 @@ function refresh() {
 }
 window.onload = function () {
     if (!window.location.hash) {
-        window.location = window.location + '#/UCHqvw9v2Fp6o006lUskoigg';
+        window.location = window.location + '#';
         window.location.reload();
     }
 }
