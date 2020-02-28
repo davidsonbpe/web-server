@@ -41,7 +41,6 @@ adkey_Page = adkey_URL.substring(adkey_From + 2, adkey_URL.length);
 
     function youtubeService($http) {
 
-        //var apiKey = "AIzaSyB361OxFYjoOALzvY-IOVBPtpTsVKFEUz8", //AIzaSyBwvsPUEjMg3_1iHG3NGU7e1JgU-Oqq1tM //AIzaSyBRp0IleaknJBNnm0XWgONqGHYimru6-is
         var apiKey = "AIzaSyBRp0IleaknJBNnm0XWgONqGHYimru6-is",
             apiURL = 'https://www.googleapis.com/youtube/v3/search?videoEmbeddable=true&order=date&part=snippet&channelId=' + adkey_Page + '&type=video&maxResults=9&key=' + apiKey,
             youtubeFactory = {};
