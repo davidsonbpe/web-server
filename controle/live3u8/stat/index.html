@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Live m3u8</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" sizes="144x144" href="https://1.bp.blogspot.com/-ZHd_vpNqYJ8/X-oVqBrtPdI/AAAAAAAAA34/haEzJiMD8BIPVFsuspQVrHK0Uz0UEmq0wCLcBGAsYHQ/s144/play.png" />
+    <link rel="apple-touch-icon" type="image/png" sizes="144x144" href="https://1.bp.blogspot.com/-ZHd_vpNqYJ8/X-oVqBrtPdI/AAAAAAAAA34/haEzJiMD8BIPVFsuspQVrHK0Uz0UEmq0wCLcBGAsYHQ/s144/play.png" />
+    <link rel="icon" type="image/png" sizes="96x96" href="https://1.bp.blogspot.com/-ZHd_vpNqYJ8/X-oVqBrtPdI/AAAAAAAAA34/haEzJiMD8BIPVFsuspQVrHK0Uz0UEmq0wCLcBGAsYHQ/s96/play.png" />
+    <link rel="apple-touch-icon" type="image/png" sizes="96x96" href="https://1.bp.blogspot.com/-ZHd_vpNqYJ8/X-oVqBrtPdI/AAAAAAAAA34/haEzJiMD8BIPVFsuspQVrHK0Uz0UEmq0wCLcBGAsYHQ/s96/play.png" />
+    <link rel="icon" type="image/png" sizes="72x72" href="https://1.bp.blogspot.com/-ZHd_vpNqYJ8/X-oVqBrtPdI/AAAAAAAAA34/haEzJiMD8BIPVFsuspQVrHK0Uz0UEmq0wCLcBGAsYHQ/s72/play.png" />
+    <link rel="apple-touch-icon" type="image/png" sizes="72x72" href="https://1.bp.blogspot.com/-ZHd_vpNqYJ8/X-oVqBrtPdI/AAAAAAAAA34/haEzJiMD8BIPVFsuspQVrHK0Uz0UEmq0wCLcBGAsYHQ/s72/play.png" />
+    <link rel="icon" type="image/png" sizes="48x48" href="https://1.bp.blogspot.com/-ZHd_vpNqYJ8/X-oVqBrtPdI/AAAAAAAAA34/haEzJiMD8BIPVFsuspQVrHK0Uz0UEmq0wCLcBGAsYHQ/s48/play.png" />
+    <link rel="apple-touch-icon" type="image/png" sizes="48x48" href="https://1.bp.blogspot.com/-ZHd_vpNqYJ8/X-oVqBrtPdI/AAAAAAAAA34/haEzJiMD8BIPVFsuspQVrHK0Uz0UEmq0wCLcBGAsYHQ/s48/play.png" />
+    <link rel="icon" type="image/png" sizes="36x36" href="https://1.bp.blogspot.com/-ZHd_vpNqYJ8/X-oVqBrtPdI/AAAAAAAAA34/haEzJiMD8BIPVFsuspQVrHK0Uz0UEmq0wCLcBGAsYHQ/s63/play.png" />
+    <link rel="apple-touch-icon" type="image/png" sizes="36x36" href="https://1.bp.blogspot.com/-ZHd_vpNqYJ8/X-oVqBrtPdI/AAAAAAAAA34/haEzJiMD8BIPVFsuspQVrHK0Uz0UEmq0wCLcBGAsYHQ/s63/play.png" />
+    <script src="js/hls.js"></script>
+    <style>
+        body {
+            margin: 0px;
+            background-color: black;
+            background-image: url(https://3.bp.blogspot.com/-LNYEEwjJfZw/WUQpH0EpV1I/AAAAAAAAECE/YasJIf9vQIgAceHDxV0kX2Tl6x-wWVvogCK4BGAYYCw/s160/logo13.png);
+            background-repeat: no-repeat;
+            background-position: center;
+            background-attachment: fixed;
+            background-size: 220px;
+        }
+
+        .videom3u {
+            width: 100%;
+            height: 100%;
+            position: fixed;
+            margin: 0px;
+            background-color: black;
+        }
+
+        .banner {
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            z-index: 99999;
+        }
+
+        #adsensemetro {
+            z-index: 99999;
+            position: fixed;
+            background: linear-gradient(rgb(22, 26, 29), rgb(31, 42, 45), rgb(46, 60, 66));
+            left: 0;
+            top: 0px;
+            width: 100%;
+            height: 100%;
+        }
+
+        #close img:hover {
+            box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.26), 0 4px 15px 0 rgba(0, 0, 0, 0.26);
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+    <div id="adsensemetro" href="javascript:void(0);">
+        <a id="close" style="position:fixed;z-index: 99999;padding: 0px;right: 0px;bottom: 45px;" href="javascript:void(0);" onclick="document.getElementById('adsensemetro').remove();">
+            <img class="close" style="width: auto; height: 35px;" src='js/Skip-Ad-Series.png'>
+        </a>
+        <video muted autoplay style="cursor: pointer;border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture;background: linear-gradient(rgb(22, 26, 29), rgb(31, 42, 45), rgb(46, 60, 66));" onclick="window.open('https://www.youtube.com/channel/UCHqvw9v2Fp6o006lUskoigg/?sub_confirmation=1', '_blank','width=900,height=600', 'location=yes'); return false;">
+            <source src="https://dl.dropboxusercontent.com/s/6dmen1rahcxaf8x/decomtv-logo.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+
+    <video class="videom3u" autoplay playsinline controls id="video" controls></video>
+    <a class="banner" href="https://davidsonbpe.blogspot.com/" target="_blank"><img src="https://3.bp.blogspot.com/-LNYEEwjJfZw/WUQpH0EpV1I/AAAAAAAAECE/YasJIf9vQIgAceHDxV0kX2Tl6x-wWVvogCK4BGAYYCw/s160/logo13.png"></a>
+
+    <script>
+        // code developer davidsonbpe no atualizado copias
+        m3u8sub_URL = "" + document.location;
+        m3u8sub_From = m3u8sub_URL.indexOf("?=");
+        m3u8sub_Page = m3u8sub_URL.substring(m3u8sub_From + 2, m3u8sub_URL.length);
+        var stream = "https://" + m3u8sub_Page + ".m3u8";
+        //var stream = "https://cdn.cdnseguro.com/Demo/Demo/playlist.m3u8"; ?=cdn.cdnseguro.com/Demo/Demo/playlist
+        if (Hls.isSupported()) {
+            var video = document.getElementById('video');
+            var hls = new Hls();
+            quelle = '' + stream + '';
+            hls.loadSource(quelle);
+
+            hls.attachMedia(video);
+            hls.on(Hls.Events.MANIFEST_PARSED, function() {
+                video.play();
+            });
+        } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+            video.src = '' + stream + '';
+            video.addEventListener('canplay', function() {
+                video.play();
+            });
+        }
+        var div = document.getElementById('adsensemetro');
+        div.style.display = 'none';
+
+        setTimeout(function() {
+            div.style.display = 'block';
+        }, 10000);
+
+    </script>
+
+</body>
+
+</html>
